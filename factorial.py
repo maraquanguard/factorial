@@ -1,5 +1,5 @@
 """
-Testing colaborative work with Peter Wang
+Testing collaborative work with Peter Wang
 """
 import sys
 
